@@ -1,0 +1,7 @@
+# Ignore dist directory
+dist/
+
+# Ignore node_modules directory
+node_modules/
+
+pnpm-lock.yaml
