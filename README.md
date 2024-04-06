@@ -2,8 +2,8 @@
 
 ## Run the Project
 
-1. `pnpm install`
-2. `pnpm run dev`
+1. `npm install`
+2. `npm run dev`
 
 ## Understand SOLID Principles in the example
 

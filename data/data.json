@@ -1,3 +1,5 @@
 {
-    "random": "random"
+  "random": "random value",
+  "some": "some value",
+  "IsAnother": true
 }
